@@ -19,10 +19,6 @@ I enjoy building software, understanding how complex systems work, and turning i
 
 I'm a software engineering student at the University of Ottawa with a strong interest in building systems that are reliable, scalable, and interesting to work on.
 
-I'm especially drawn to the engineering behind software: how services communicate, how data moves through systems, and how different components come together to solve problems.
-
-Outside of work and school, I enjoy exploring new technologies, experimenting with different ideas, and building projects that challenge me to learn something new.
-
 ## ⚡ Areas of Interest
 
 **`⚙️ Backend Engineering`**  
@@ -34,8 +30,6 @@ Exploring concurrency, service communication, asynchronous processing, and syste
 **`🛠️ Developer Tools & Infrastructure`**  
 Building tools that improve how developers understand, build, and interact with software.
 
-**`☁️ Cloud & Systems Engineering`**  
-Working with cloud infrastructure, containers, automation, and scalable architectures.
 
 ## 🧰 Technologies
 
@@ -50,11 +44,11 @@ Working with cloud infrastructure, containers, automation, and scalable architec
 
 ### Backend & Frameworks
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### Systems & Data
 
