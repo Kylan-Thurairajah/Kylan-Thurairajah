@@ -11,10 +11,8 @@ I work across backend systems, infrastructure, and whatever else seems worth fig
 
 ### Projects
 
-**Perigee** `Go` `gRPC` `PostgreSQL` `TypeScript`  
+**[Perigee](https://github.com/Kylan-Thurairajah/Perigee)** `Go` `gRPC` `PostgreSQL` `TypeScript`  
 Orbital collision screening engine. Parallel orbit propagation, spatial indexing, and conjunction detection across large satellite catalogs. Includes a web-based 3D viewer.
-
-*In development.*
 
 **[Nightjar](https://github.com/Kylan-Thurairajah/nightjar)** `Python` `NumPy` `Textual`  
 Multi-agent search simulator with autonomous exploration, shared environment knowledge, and a terminal-based interface for inspecting agent behavior.
@@ -32,7 +30,3 @@ Local search engine for ChatGPT conversations. Combines keyword and vector searc
 **Languages:** Go, Python, TypeScript, Java, C, SQL  
 **Backend & Data:** FastAPI, Spring Boot, PostgreSQL, Redis, gRPC, ZeroMQ  
 **Tools:** AWS, Docker, GitHub Actions, Linux
-
----
-
-Currently working on **Perigee** and getting deeper into Go and distributed systems.
