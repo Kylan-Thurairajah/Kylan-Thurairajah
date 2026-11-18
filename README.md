@@ -1,5 +1,5 @@
 
-# Kylan Thurairajah
+# Kylan
 
 Software Engineering @ University of Ottawa.
 
