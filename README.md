@@ -3,8 +3,6 @@
 
 Software Engineering @ University of Ottawa.
 
-I work across backend systems, infrastructure, and whatever else seems worth figuring out.
-
 [LinkedIn](https://linkedin.com/in/kylan-thurairajah) · [GitHub](https://github.com/Kylan-Thurairajah)
 
 ---
