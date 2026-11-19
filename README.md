@@ -7,7 +7,7 @@
 
 ### Things I've Built
 
-**🛰️ [Perigee](https://github.com/Kylan-Thurairajah/Perigee)** `Go` `gRPC` `PostgreSQL` `TypeScript`  
+**<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6f0.svg" width="24" height="24" align="absmiddle"> [Perigee](https://github.com/Kylan-Thurairajah/Perigee)** `Go` `gRPC` `PostgreSQL` `TypeScript`
 Satellite collision screening and orbital tracking.
 
 [![Perigee’s 3D viewer replays a simulated close approach between two satellites.](assets/perigee.gif)](https://github.com/Kylan-Thurairajah/Perigee)
