@@ -1,13 +1,13 @@
 
 # Kylan
 
-Software Engineering @ University of Ottawa.
+SWE @ uOttawa
 
 [LinkedIn](https://linkedin.com/in/kylan-thurairajah) · [GitHub](https://github.com/Kylan-Thurairajah)
 
 ---
 
-### Projects
+### Some of my work
 
 **[Perigee](https://github.com/Kylan-Thurairajah/Perigee)** `Go` `gRPC` `PostgreSQL` `TypeScript`  
 Orbital collision screening engine. Parallel orbit propagation, spatial indexing, and conjunction detection across large satellite catalogs. Includes a web-based 3D viewer.
