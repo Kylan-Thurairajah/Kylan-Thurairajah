@@ -17,6 +17,9 @@ Rainbow Six Siege-inspired autonomous drone simulation.
 
 [![Three autonomous drones explore a simulated facility and log proximity scans in Nightjar.](assets/nightjar.gif)](https://github.com/Kylan-Thurairajah/nightjar)
 
+**[Split](https://github.com/Kylan-Thurairajah/Split)** *(In Development)* `Go` `React Native` `TypeScript` `PostgreSQL`  
+Collaborative group shopping with shared carts and real-time checkout sessions.
+
 **[CueVision](https://github.com/Kylan-Thurairajah/CueVision)** `Computer Vision` `Edge Computing`  
 Real-time computer vision across wearable devices and the cloud.
 
