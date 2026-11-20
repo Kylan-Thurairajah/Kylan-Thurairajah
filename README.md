@@ -21,6 +21,8 @@ Rainbow Six Siege-inspired autonomous drone simulation.
 `Go` `React Native` `TypeScript` `PostgreSQL`  
 Collaborative group shopping with shared carts and real-time checkout sessions.
 
+[![Split’s shared cart shows item allocations and each person’s share in dark mode.](assets/split.jpg)](https://split-os0j.onrender.com/)
+
 **[CueVision](https://github.com/Kylan-Thurairajah/CueVision)** `Computer Vision` `Edge Computing`  
 Real-time computer vision across wearable devices and the cloud.
 
