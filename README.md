@@ -23,8 +23,8 @@ Collaborative group shopping with shared carts and real-time checkout sessions.
 
 [![Split’s shared cart shows item allocations and each person’s share in dark mode.](assets/split.jpg)](https://split-os0j.onrender.com/)
 
-**[CueVision](https://github.com/Kylan-Thurairajah/CueVision)** `Computer Vision` `Distributed Systems` \
-A billiards shot assistant designed for Ray-Ban Meta glasses that turns pool-table photos into shot recommendations and annotated overhead views using OpenCV and a fault-tolerant job pipeline.
+[**CueVision**](https://github.com/Kylan-Thurairajah/CueVision) `Computer Vision` `Distributed Systems`\
+All that table and no idea where to aim?
 
 **[Lexica](https://github.com/tanishboiiii/Lexica---ChatGPT-Search-Engine)** `Python` `FastAPI` `FAISS` `BM25`  
 Local hybrid search engine for ChatGPT conversations.
